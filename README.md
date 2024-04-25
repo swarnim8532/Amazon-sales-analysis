@@ -29,4 +29,4 @@ analysis techniques:
 10. Identify the top 2 categories that have received maximum returns and their return
 percentage.
 ## Entity-Relationship Diagram (ERD)
-![](https://github.com/swarnim8532/Amazon-sales-analysis/blob/main/erd.jpg)
+![](https://github.com/swarnim8532/Amazon-sales-analysis/blob/main/image%20(1).png)
